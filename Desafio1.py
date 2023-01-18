@@ -5,7 +5,7 @@ termo1 = int(0)
 termo2 = int(1)
 termo3 = int(0)
 print('-'*42)
-print(''*3, 'Consulta de sequencia de Fiboncci')
+print(''*3, 'Consulta de sequencia de Fibonacci')
 print('42')
 valor = int(input('Disgite o número: '))
 
