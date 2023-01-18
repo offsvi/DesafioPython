@@ -23,4 +23,4 @@ elif valor == termo3:
 else:
     print('O número digitado não faz parte da sequencia de Fibonacci!')
 
-# --------- Fim do Programa ---------
+# -------- Fim do Programa --------
