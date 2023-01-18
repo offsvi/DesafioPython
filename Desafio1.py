@@ -7,7 +7,7 @@ termo3 = int(0)
 print('-'*42)
 print(''*3, 'Consulta de sequencia de Fibonacci')
 print('42')
-valor = int(input('Disgite o número: '))
+valor = int(input('Disgite um número: '))
 
 # Inicio do laço de repetição 
 while valor > termo3:
